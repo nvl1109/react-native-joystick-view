@@ -1,4 +1,4 @@
-package io.cmichel.boilerplate;
+package com.linhnguyen.joystickview;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
